@@ -3,4 +3,4 @@ As soon as the required VALUES are inserted for the patient, the database will t
 
 ## NOT implemented yet 
 - doctors_name for referal system (EASY, most of it is there, only need to add it <br>
-- incrementing severity everytime an appointment is rescheduled (HARDER) <br>
+- incrementing severity everytime an appointment is rescheduled <br>
